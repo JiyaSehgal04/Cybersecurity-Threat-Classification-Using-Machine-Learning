@@ -1,8 +1,5 @@
 # Cybersecurity-Threat-Classification-Using-Machine-Learning
 
-
-# Cybersecurity Threat Classification Using Machine Learning
-
 This project implements a machine learning solution for classifying cybersecurity threats based on network traffic data. It follows a complete pipeline from data preprocessing to model evaluation and visualization.
 
 ## Requirements
